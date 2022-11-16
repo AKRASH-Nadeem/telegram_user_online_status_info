@@ -1,4 +1,4 @@
-# Telegram bot for saving online status
+# Telegram bot for saving online status of users
 
 ## Install requirements
 
